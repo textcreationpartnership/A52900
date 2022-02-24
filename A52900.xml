@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarks on Mr. Bois book in defence of Osborn and upon some passages in Mr. Williams sermon on the 23d of October last, sent in a letter to satisfie his friend, a dissenter in the country / by N.N.</title>
+            <author>N. N., 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52900</idno>
+            <idno type="STC">Wing N59</idno>
+            <idno type="STC">ESTC R31061</idno>
+            <idno type="EEBO-CITATION">11770138</idno>
+            <idno type="OCLC">ocm 11770138</idno>
+            <idno type="VID">48841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarks on Mr. Bois book in defence of Osborn and upon some passages in Mr. Williams sermon on the 23d of October last, sent in a letter to satisfie his friend, a dissenter in the country / by N.N.</title>
+                  <author>N. N., 17th cent.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to sold by Randle Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boyse, J. --  (Joseph), 1660-1728. --  Vindication of the Rev. Mr. Alexander Osborn in reference to the affairs of the north of Ireland.</term>
+               <term>Osborn, Alexander.</term>
+               <term>Church and state --  Ireland.</term>
+               <term>Ireland --  History --  1688-1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:48841:1" rendition="simple:additions"/>
+            <head>SOME REMARKS <hi>On Mr. Bois Book</hi> In Defence of Osborn. And upon ſome <hi>PASSAGES</hi> in Mr. <hi>Williams SERMON</hi> on the 23d. of <hi>October</hi> laſt.</head>
+            <head type="sub">Sent in a Letter to ſatisfie his Friend, a <hi>Diſſenter</hi> in the Country. By <hi>N. N.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I do not deſign by this Paper to throw any more Dirt upon the <hi>Worthy and Pious Divine,</hi> Mr. <hi>Oſborn;</hi> and I am very well pleaſed to hear any thing that may Juſtifie him, or any man that lyes under Aſperſion; but where the Author, under the pretence of defending Mr. <hi>Oſborn,</hi> brings in his Inſinuation againſt the Church, and ſome Members of it: If Mr. <hi>Osborn</hi> were as Pious and Wor<g ref="char:EOLhyphen"/>thy a Divine as Mr. <hi>Bois</hi> himſelf, I muſt beg his Pardon, and cannot but Affirm, That Mr. <hi>Oſbor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> coming into the <hi>North,</hi> was underſtood generally to perſwade people to lay down their Arms: That they did lay down their Arms upon it, is moſt notorious, and it prevail'd ſo far, that ſome of the Subſcribers to Mr. <hi>O</hi>'s Cer<g ref="char:EOLhyphen"/>tificate fled upon it, and left all their Plate and Jewels, and Sweet meats, behind, and took nothing away of Value, but their Race-horſes. The Subſcribers, I think, have now left themſelves without Excuſe; for their running was excuſed upon this very Account, that the people were perſwaded to lay down their Arms, and their Leaders were to ſhift for themſelves; but now their running away will want a new Apology: Nay, farther I have heard it affirm'd, that this Management of Mr. <hi>Oſborn,</hi> prevail'd in the <hi>North</hi> to this very day, ſo that they did not join with our Forces: And a Gentleman lately Examined before the Parliament, gives the ſame Reaſon for it ſtill, that Mr. <hi>Oſborns</hi> Brethren do perſwade and command their Peo<g ref="char:EOLhyphen"/>ple by no means to join with the preſent Government; which if true, Mr. <hi>Bois,</hi> &amp;c. would do well to go and Preach another Doctrine in thoſe Parts, and to take Mr. <hi>O.</hi> along with him, rather than to hazard the Credit of his Friends, for the ſake of that Worthy and Pious Divine. This might be a better Service to the Government than preaching, writing, or talking in <hi>Coffee-houſes</hi> againſt the C. of <hi>England.</hi> I am ſorry there is occaſion to reflect upon theſe things, it is certainly our great Misfortune, and to be lamented, that ſuch men that bear the Name of Chriſtians and Proteſtants, will not learn what is the true Intereſt of their Profeſſion, but will always be picking at thoſe that are the great defenders of it; the Great <hi>Laud</hi> and <hi>Stillingfleet,</hi> &amp;c. have done more for the Proteſtant Religion than all the worthy and pious Divines of our Author's Communion, and how they have been uſed by them, is too remarkable; in <hi>Ireland</hi> Biſhop <hi>Bramhal</hi> has been alike unfortunate; I do not know whence this is deriv'd, but 'tis ſtill purſued: Mr. <hi>Bois</hi> muſt write againſt <hi>Dr. King</hi> in <hi>Dublin,</hi> and rather
+<pb n="1" facs="tcp:48841:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:48841:3"/>than have nothing to write, he tranſcribes almoſt a whole Book (Anſwered a hun<g ref="char:EOLhyphen"/>dred times over) of <hi>Baxters,</hi> when the <hi>Dr.</hi> was engaged with that baſe Apoſtate, <hi>D. Mamby;</hi> but that Mr. <hi>Bois</hi> would get another Certificate from the aforeſaid Sub<g ref="char:EOLhyphen"/>ſcribers, I could tell him what Miſchief that Book did the Proteſtants, and what uſe the Papiſts made of it againſt the Church at that time. But we have a further Inſtance, Mr. <hi>Bois</hi> againſt Mr. <hi>Walker,</hi> whom the World muſt allow has done very good Service to the Proteſtant Religion in general, and deſerves to be treated after another manner by Mr. <hi>Bois</hi> himſelf, than that he ſhould be in print againſt him, and ſo maliciouſly and falſly inſinuate he was only a <hi>Store-keeper</hi> and <hi>Diſpenſer</hi> of <hi>Pro<g ref="char:EOLhyphen"/>viſions;</hi> as if that were all he did, when thouſands could give Mr. <hi>Bois</hi> the Lye, but that Mr. <hi>Bois</hi> has already done it under his Hand, in his modeſt Letter, as he calls it, or Admoniſhment to Mr. <hi>Walker,</hi> wherein he acknowledges Mr. <hi>W</hi>'s. Ser<g ref="char:EOLhyphen"/>vices, and which would have a civil Anſwer, had not Mr. <hi>Bois</hi> talk'd the Subſtance of it in <hi>Coffee-houſes</hi> ſo often over before Mr. <hi>W.</hi> read it in a Letter and as for the Modeſty or i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow well i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſerves that Character, let any man <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge when he deſired Mr. <hi>W</hi> to retract what he had ſaid.</p>
+            <p>Though Mr. <hi>Walker</hi> (as does now appear) no doubt, intended them Credit, by naming only thoſe two as contributing to their Miſchiefs, when others were faſly accuſed; and he would upon all occaſions be as ready to aſſiſt thoſe Mr. <hi>Bois</hi> calls Brethren, in all Honeſt and Chriſtian Services, as Mr. <hi>Bois</hi> himſelf.</p>
+            <p>Another Miſtake of Mr. <hi>Bois</hi> is, that he ſays that Mr. <hi>Oſborn</hi> writ to none but Members of the Conſult, which is evidently falſe, by ſeveral Copies now in Town from Mr. <hi>Oſborn,</hi> writ to his Brethren, and other Gentlemen twenty and thirty miles diſtant; and tho' Mr. <hi>Bois</hi> ſays it was writ with no other deſign, but to make them prepare againſt the Enemy, and that danger; pray ask a Lieutenant Colonel of <hi>Derry,</hi> now in Town, who was preſent when Mr. <hi>Oſborn</hi> and his Secretary were ſo buſy; and whether his Sentiments were the ſame with Mr. <hi>Bois.</hi> — <hi>If any other <g ref="char:V">Ʋ</g>ſe was made of this Letter, it was oweing to their Fears and Cowardice.</hi> This is not ſaid with that juſt Reſpect Mr. <hi>Bois</hi> ſhould pay the Subſcribers, they are concern'd to anſwer for themſelves; I am ſure Sir <hi>A. Boyden</hi> can, and write for himſelf too, tho' I queſtion whether he did ſo to the Certificate. Now for the Doctrine of <hi>Non-Reſiſtance,</hi> Mr. <hi>Bois</hi> muſt ſhew his Parts, and I have been told, has done it before on that Subject, I think it very im<g ref="char:EOLhyphen"/>pertinent, he ſhould upon ſo little Ground enlarge on it ſo much in his Book; that Matter has been pretty well explain'd in twenty Books, (to which I refer the Author) and I never heard any one, that either underſtood that Doctrine, or the Church of <hi>England,</hi> make it a Reproach to her; ſo far as ſhe has been concern'd, it is eaſy enough to juſtifie her: And ſince <hi>Mr. Bois,</hi> &amp;c. expects to reap the Be<g ref="char:EOLhyphen"/>nefit of her miſtake, (if ſuch) I wonder he ſhould ſpeak againſt it. And now in comes the Biſhop of <hi>Derry,</hi> what a Stir the Apologiſt kept about him, and his Pa<g ref="char:EOLhyphen"/>tron <hi>Mr. Bois</hi> does in his Paper, only becauſe the Biſhop did not run with <hi>Mr. Kerns,</hi> and the Boys, to ſhut up the Gates, which at that time was a mad undertaking, but that the Complyance of one <hi>that came with the Enemie,</hi> and that Providence order'd, it otherwiſe, it was as fooliſh a thing as ever was done, and as dangerous; and Mr. <hi>Bois</hi> if he had been there, or would now conſider, muſt allow, not only the Biſhop, but all the ſober People were againſt it; tho' they were afterwards glad to ſee it done, when not by themſelves, becauſe it might by great chance turn to good Account, and if not, it might be excuſed.</p>
+            <p>As for what is ſaid of Mr. <hi>W</hi>'s. Regiment, being my Lord <hi>Charlemont,</hi> Colonel <hi>Chicheſter, &amp;c.</hi> Mr. <hi>Walker</hi> raiſed it himſelf, and perhaps did not think of being a Colonel then, or Governour of <hi>Derry,</hi> no more than Mr. <hi>Bois;</hi> but if afterwards, Mr. <hi>Walker</hi> headed it, and did all the buſineſs of a Colonel, that does not leſſen him, tho' Mr. <hi>Bois</hi> throws it in no doubt with that deſign.</p>
+            <p>Some Pages the Author ſpends about the Dialogue between <hi>Osborn</hi> and <hi>Tyrconnel</hi> and the following, about ſome good intentions of Friends; but ſince they never came to Effect, and Mr. <hi>Bois</hi> ſees whom to blame for it, he may keep that to himſelf.</p>
+            <p>Now comes the Certificate which indeed is to purpoſe; the Subſcribers being ex<g ref="char:EOLhyphen"/>tream kind in it, and taking the whole blame upon themſelves, and there let it lye for me; for ſince the diſperſing of Letters was accounted the great occaſion of the Peoples laying down their Arms, and that was done at the Order of the Subſcribers, they are to be blamed, and not Mr. <hi>Osborn,</hi> and indeed ſince they have ſo long en<g ref="char:EOLhyphen"/>joy'd
+<pb facs="tcp:48841:4"/>the benefit of a good excuſe for their own haſte out of that Country, 'tis but juſt at laſt, to put the Saddle on the right Horſe; and ſince they have <hi>Reaſon to un<g ref="char:EOLhyphen"/>derſtand</hi> this matter, we ought to ſubmit to it, and to think Mr. <hi>Osborn</hi> a very innocent Perſon. I think Mr. <hi>Bois</hi> by the management of theſe Subſcribers, has done true ſervice to his Friend Mr. <hi>Osborn;</hi> and had he Printed this Certificate (without his other needleſs Reflections, and left Sir <hi>A</hi>'s name out) I am confident no body would have quarrelled with him, for that Argument is unanſwerable, and I wiſh the reſt had been ſo too.</p>
+            <p>Mr. <hi>Bois</hi> complains he had not this Teſtimony ſooner, for indeed, it coſt many meetings and conſultations in the <hi>Pall-Mall</hi> before it appeared, and Mr. <hi>Bois</hi> can give another reaſon, the labour of getting hands to it, of thoſe, to gratify whom, ſo many Parentheſis are put in. As for Mr. <hi>Hewſon,</hi> Mr. <hi>W.</hi> may not ſo exactly un<g ref="char:EOLhyphen"/>derſtand, as Mr. <hi>Bois</hi> and his Friends, how they have uſed him; but I hear a great many ſay, he has as great a party in the <hi>North,</hi> as Mr. <hi>Osborn,</hi> or Mr. <hi>Bois.</hi> And notwithſtanding Mr. <hi>Bois</hi> his inſinuation againſt the Government, for not imploying more of his Friends; he has no reaſon to ſay they are rejected: But as many of that ſort, are imployed in all places, as any other; tho' I hear none but them com<g ref="char:EOLhyphen"/>plain, as if nothing could pleaſe ſuch People; tho' he ſays, none had acceſs to Mi<g ref="char:EOLhyphen"/>litary Imployment, but Church of <hi>England</hi> Men, and ſo he would excuſe the being ſo many Officers of that Church in <hi>Derry,</hi> when he knows, ſince the taking up Arms, no ſuch diſtinction was obſerved; if ſo many of them ſtay'd by it, 'tis ſo much the more for their Credit Mr. <hi>Bois</hi> is a pin lower as to the number in <hi>Derry,</hi> than I find Mr. <hi>William</hi> in his laſt Sermon; he ſays they were ten to one; Mr. <hi>Bois,</hi> five to one. I have heard as modeſt men as either of them, contradict them both, and by their own experience, tho' I think it not much worth the while to contend it; and if they had not ſet up themſelves, without any provocation, it had never been ſpoken of: And if they interpret Mr. <hi>Walkers</hi> Preface to their own diſadvantage, they may; tho' I believe his meaning went further than the Walls of <hi>Derry;</hi> and ſo far, that I wonder at their confidence not to allow it.</p>
+            <p>And now for Colonel <hi>Baker,</hi> How baſely does Mr. <hi>Bois</hi> prevaricate? 'Tis well known, neither Mr. <hi>Walker</hi> no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he, were unkind to the <hi>Diſſenters;</hi> but 'tis as well known Mr. <hi>W.</hi> Engaged him in the Service, and not the contrary, after Mr. <hi>B</hi>'s coming out of the Boat, ſo little perſwaſion, obtained his Aſſiſtance, that it could not be to his diſparagement; he ever wanted it, nor do I mention it on that Account; but to induce Mr. <hi>Bois</hi> i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poſſible, to conſider his own Forehead in aſſerting ſuch miſtakes, as alſo his Remarks about the Cathedral and Meetings; it ſhews Mr. <hi>Bois</hi> was not there himſelf, and takes things at random, when they pleaſe him.</p>
+            <p>I believe Mr. <hi>W.</hi> in his Reflection on Brethren in <hi>England,</hi> never meant other, but thoſe that come from <hi>Ireland;</hi> and more ſhame for them to deſerve it; and if Mr. <hi>Bois</hi> take that to himſelf, he may; his diſcourſe as well as writing, ſhews him not the moſt peaceable or modeſt man, that he cannot quietly ſuffer himſelf to enjoy his Liberty, without kicking at that Government and Church that gives him it.</p>
+            <p>And as for the omitting the Names, that it was not voluntary, nor deſigned; Mr. <hi>W.</hi> has ſaid enough to convince any reaſonable man; and it is a ſhame Mr. <hi>Bois</hi> ſhould ſtill complain.</p>
+            <p>Mr. <hi>Bois</hi> ends all, with ſhewing his concern for the failures of Mr. <hi>W</hi>'s Apologiſt; <hi>he will not</hi> ſay he was the <hi>Author,</hi> but would have as believe he knows him, 'tis ſo worthy a piece; the Reader muſt know he had a hand in it, and therefore we muſt be ſatisfied with Mr. <hi>Bois</hi>'s conceſſions on his behalf, and excuſe the poor Gen<g ref="char:EOLhyphen"/>tleman for telling ſo many falſe Stories to no purpoſe, but to do miſchief, and to poſſeſs his own party of wrong done them, no body knows by whom, nor how.</p>
+            <p>I hope that party is wiſer and better diſpos'd, than to be warm'd, or to Intereſt themſelves on the account of ſuch cavillers: their Friends in <hi>England,</hi> do not give them any Examples of writing or ſpeaking much againſt us, only thoſe of them that have their protection and bread among us, are the moſt troubleſome and noiſy; 'tis a very ill uſe they make of theſe Favours they meet, that they ſhould diſpoſe them to anger, and cunning Reflection againſt the Government they have them from. I do not ſay this only with Relation to Mr. <hi>Bois,</hi> but to another Worthy and Pious Di<g ref="char:EOLhyphen"/>vine, that Preached a Sermon the 23d. of <hi>October</hi> laſt, not ſo much againſt Papiſts as Proteſtants; poor King <hi>Charles</hi> the Firſt, and the Duke of <hi>Ormond</hi> cannot eſcape him;
+<pb n="4" facs="tcp:48841:5" rendition="simple:additions"/>and, but that he has more Senſe and Piety than his Lordſhip, a Right Reverend Biſhop (I ſup<g ref="char:EOLhyphen"/>poſe for putting that Rebellion on Papiſts) as he calls him, had been anſwered by him, and ſure he would do it moſt effectually out of the Councels, Fathers, and Hebrew Text that he is ſo well acquainted with, and that has furniſhed his Margin with Quotations, to amuſe his ſimple Reader; an Art in which he is ſingular. In his 19th. <hi>page,</hi> ſee what People he chooſes for Popiſh deſigns, the only oppoſers of them, that if they could have kept their places, <hi>would have ſerved</hi> thoſe Intereſts; ſo that all the Champions for the <hi>Proteſtant</hi> Religion in the Late Reign, were only Diſ<g ref="char:EOLhyphen"/>ſemblers and Sicophants. In the 24th. <hi>page,</hi> he tells of ſome Friends, Papiſts have among us, under a Proteſtant Name; ſo that the old Juggle in Maſquerade muſt come up again. I am much troubled to ſee ſome few indeed of that name ſo ſtubborn under this Government, but I am very confident they will never fight for Popery, no more than Mr. <hi>Osborn</hi> of Mr. <hi>Bois;</hi> but <hi>their</hi> Conſciences have been a long time trouble<g ref="char:EOLhyphen"/>ſome, and why ſhould they envy others the ſame pretence?</p>
+            <p>25. <hi>pag.</hi> You have a Remark upon the Haranges of Clergy-men that were to ſet up Arbitrary Power, (which if it were not for ſuch fellows as our Authors, it could never be pretended to) what ever they ſay to the contrary) and then he is a little too ſevere upon their bad Husbandry and Poverty: But alas! that is adding affliction to affliction; and tis no Argument, and I am ſure, no good practice; Mr. <hi>Williams</hi> knows it more Chriſtian-like to Relieve the diſtreſſed, than to reproach them with their neceſſities; but ſowerneſs and ill nature produces contrary effects. Then for <hi>D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rry,</hi> 'tis his ſore place, you muſt not touch him there; he knows who preſerved it, and they were ten to one: Come, this is not the ſpirit of meekneſs and humility; and I am confident Mr. <hi>Williams</hi> Auditors came from that Sermon more prejudiced by it againſt the Church of <hi>England,</hi> than againſt Papiſts; I am ſure I met ſome of them that were ſo, and I am ſorry that under the pretence of Peace to be promoted among Proteſtants, and a juſt reſent againſt Papiſts, ſuch malici<g ref="char:EOLhyphen"/>ous and miſchievous inſinuations ſhould appear in a Sermon on ſuch an occaſion; ſuch men cannot but know it a diſſervice to the publick at this time, to warm their People againſt us; when there are ſuch endeavours on foot for a laſting Peace and Union among us; and when all People ſhould contribute their utmoſt to the effe<g ref="char:EOLhyphen"/>cting of it; and it would more eſpecially become Mr. <hi>Bois</hi> and Mr. <hi>Williams</hi> to add their mite to ſo good a deſign, for it would be ſome reflection on ſuch to per<g ref="char:EOLhyphen"/>plex that Government, where they have their Shelter and Protection, and to return Scorpions to beget diſſenſion for the Bread is given them, and the Charity that feeds them. I have run theſe things over haſtily, if any thing be wanting, I will make it up in diſcourſe the next time we meet: I am,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Yours, <hi>N. N.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and are to be Sold by <hi>Randle Taylor</hi> near <hi>Stationers-Hall,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
